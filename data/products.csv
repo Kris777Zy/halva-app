@@ -1,0 +1,6 @@
+flavour,ingredients,sugarPer100g,kcalPer100g,weightG,priceEur,allergens
+Classic Vanilla,"Tahini (sesame paste), sugar, vanilla extract, soapwort root",38,520,250,4.90,"Sesame; may contain nuts"
+Cocoa,"Tahini (sesame paste), sugar, cocoa powder, vanilla",36,530,250,5.20,"Sesame; may contain nuts, milk traces"
+Pistachio,"Tahini (sesame paste), sugar, pistachios (12%), vanilla",35,545,250,6.90,"Sesame; pistachios (tree nuts)"
+Sunflower,"Sunflower seed butter, sugar, sunflower seeds, vanilla",34,540,250,4.50,"May contain sesame and nuts"
+Reduced-Sugar,"Tahini (sesame paste), maltitol, vanilla extract, soapwort root",8,480,200,5.50,"Sesame; may contain nuts"
